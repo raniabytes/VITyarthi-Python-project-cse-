@@ -14,8 +14,6 @@ A simple Python-based CRUD application to manage school bus routes, including ro
 
 ## Technologies / Tools Used
 - Python 3.x
-- FPDF (for PDF report generation, optional)
-- Git/GitHub for version control
 
 ## Installation
 1. Clone the repository:

@@ -30,5 +30,4 @@ All functional and non-functional requirements are documented, and technical des
 3.Install Required Libraries (Optional)
 4.Run the Program
 
-## statement.md 
 
